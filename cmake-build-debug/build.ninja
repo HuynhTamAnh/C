@@ -61,11 +61,17 @@ build CMakeFiles/LearnC.dir/Lesson1/bt1.c.obj: C_COMPILER__LearnC_unscanned_Debu
   OBJECT_DIR = CMakeFiles\LearnC.dir
   OBJECT_FILE_DIR = CMakeFiles\LearnC.dir\Lesson1
 
-build CMakeFiles/LearnC.dir/bt2.c.obj: C_COMPILER__LearnC_unscanned_Debug D$:/LearnC/bt2.c || cmake_object_order_depends_target_LearnC
-  DEP_FILE = CMakeFiles\LearnC.dir\bt2.c.obj.d
+build CMakeFiles/LearnC.dir/Lesson1/bt2.c.obj: C_COMPILER__LearnC_unscanned_Debug D$:/LearnC/Lesson1/bt2.c || cmake_object_order_depends_target_LearnC
+  DEP_FILE = CMakeFiles\LearnC.dir\Lesson1\bt2.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\LearnC.dir
-  OBJECT_FILE_DIR = CMakeFiles\LearnC.dir
+  OBJECT_FILE_DIR = CMakeFiles\LearnC.dir\Lesson1
+
+build CMakeFiles/LearnC.dir/Lesson1/bt3.c.obj: C_COMPILER__LearnC_unscanned_Debug D$:/LearnC/Lesson1/bt3.c || cmake_object_order_depends_target_LearnC
+  DEP_FILE = CMakeFiles\LearnC.dir\Lesson1\bt3.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\LearnC.dir
+  OBJECT_FILE_DIR = CMakeFiles\LearnC.dir\Lesson1
 
 
 # =============================================================================
@@ -75,7 +81,7 @@ build CMakeFiles/LearnC.dir/bt2.c.obj: C_COMPILER__LearnC_unscanned_Debug D$:/Le
 #############################################
 # Link the static library libLearnC.a
 
-build libLearnC.a: C_STATIC_LIBRARY_LINKER__LearnC_Debug CMakeFiles/LearnC.dir/library.c.obj CMakeFiles/LearnC.dir/Lesson1/bt1.c.obj CMakeFiles/LearnC.dir/bt2.c.obj
+build libLearnC.a: C_STATIC_LIBRARY_LINKER__LearnC_Debug CMakeFiles/LearnC.dir/library.c.obj CMakeFiles/LearnC.dir/Lesson1/bt1.c.obj CMakeFiles/LearnC.dir/Lesson1/bt2.c.obj CMakeFiles/LearnC.dir/Lesson1/bt3.c.obj
   LANGUAGE_COMPILE_FLAGS = -g
   OBJECT_DIR = CMakeFiles\LearnC.dir
   POST_BUILD = cd .
