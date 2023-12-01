@@ -4,5 +4,6 @@ project(LearnC C)
 set(CMAKE_C_STANDARD 11)
 
 add_library(LearnC library.c
-        library.h
-        "Lesson1/gán biến.c")
+        Lesson1/bt1.c
+        bt2.c)
+
