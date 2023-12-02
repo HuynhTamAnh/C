@@ -21,17 +21,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c0d7695-95f0-498b-af56-fc40ad6b9736" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson1/bt3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson1/bt5.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson1/gán biến.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/bt6.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt2.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson1/bt2.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-75aca710cab42ea7839e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-01T08-23-52-0058.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-LearnC-Debug-672af3204c7ccdde25ad.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-9cd27d0d4dcbb3cb3a13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-01T15-06-43-0448.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-LearnC-Debug-e1cf9387aa7c8553bdcd.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss2" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +77,7 @@
       <recent name="D:\LearnC\Lesson1" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.bt6.c">
+  <component name="RunManager" selected="C/C++ File.bt5.c">
     <configuration name="LearnC" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="LearnC" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -104,6 +100,12 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="bt5.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="bt5.c" CONFIG_NAME="bt5.c">
+      <option name="sourceFile" value="Lesson1\bt5.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="bt6.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="bt6.c" CONFIG_NAME="bt6.c">
       <option name="sourceFile" value="Lesson1\bt6.c" />
       <method v="2">
@@ -111,6 +113,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="C/C++ File.bt5.c" />
       <item itemvalue="C/C++ File.bt6.c" />
       <item itemvalue="C/C++ File.bt2.c" />
       <item itemvalue="C/C++ File.bt1.c" />
@@ -118,6 +121,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.bt5.c" />
         <item itemvalue="C/C++ File.bt6.c" />
         <item itemvalue="C/C++ File.bt2.c" />
         <item itemvalue="C/C++ File.bt1.c" />
@@ -133,22 +137,19 @@
       <option name="presentableId" value="Default" />
       <updated>1701416246212</updated>
       <workItem from="1701416247688" duration="8536000" />
-      <workItem from="1701443201066" duration="598000" />
+      <workItem from="1701443201066" duration="3379000" />
+      <workItem from="1701487172889" duration="4155000" />
+      <workItem from="1701494968951" duration="6806000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Lesson1/bt6.c</url>
-          <line>1</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
   </component>
 </project>
