@@ -1,3 +1,0 @@
-C:/LearnC/cmake-build-debug/CMakeFiles/LearnC.dir
-C:/LearnC/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/LearnC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
