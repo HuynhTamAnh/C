@@ -20,5 +20,6 @@ add_library(LearnC library.c
         Lesson4/bt4.c
         Lesson4/bt5.c
         Lesson4/bt6.c
+        Lesson4/bt7.c
 )
 

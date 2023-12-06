@@ -66,7 +66,8 @@
 				13,
 				14,
 				15,
-				16
+				16,
+				17
 			]
 		}
 	],
@@ -100,7 +101,8 @@
 				13,
 				14,
 				15,
-				16
+				16,
+				17
 			]
 		}
 	],
@@ -206,6 +208,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Lesson4/bt6.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Lesson4/bt7.c",
 			"sourceGroupIndex" : 0
 		}
 	],
