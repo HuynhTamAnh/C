@@ -1,10 +1,11 @@
 #include <stdio.h>
-int main(void)
+int main()
 {
-    printf("nhap: ");
-    char str1[3];
-    char str2[3];
-    char str3[3];
-    scanf("%s%s%s", &str1%&str2&str3);
-    printf()
+    int age;
+    printf("enter your age: ");
+    scanf("%d", &age);
+    if (age>18)
+        printf ("du tuoi bo phieu");
+    else printf("chua du tuoi bo phieu");
+    return 0;
 }

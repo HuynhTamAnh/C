@@ -13,11 +13,3 @@ int main()
     return 0;
 }
 
-//#include<stdio.h>
-//int main(void){
-//    printf("Nhap ky tu: ");
-//    char chr[1] ;
-//    scanf("%s", &chr);
-//    printf("Ky tu vua nhap: %s\n", chr);
-//    return 0;
-//}
