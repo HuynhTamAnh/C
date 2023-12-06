@@ -67,17 +67,71 @@ build CMakeFiles/LearnC.dir/Lesson1/bt2.c.obj: C_COMPILER__LearnC_unscanned_Debu
   OBJECT_DIR = CMakeFiles\LearnC.dir
   OBJECT_FILE_DIR = CMakeFiles\LearnC.dir\Lesson1
 
-build CMakeFiles/LearnC.dir/Lesson1/bt3.c.obj: C_COMPILER__LearnC_unscanned_Debug D$:/LearnC/Lesson1/bt3.c || cmake_object_order_depends_target_LearnC
-  DEP_FILE = CMakeFiles\LearnC.dir\Lesson1\bt3.c.obj.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\LearnC.dir
-  OBJECT_FILE_DIR = CMakeFiles\LearnC.dir\Lesson1
-
 build CMakeFiles/LearnC.dir/Lesson1/bt5.c.obj: C_COMPILER__LearnC_unscanned_Debug D$:/LearnC/Lesson1/bt5.c || cmake_object_order_depends_target_LearnC
   DEP_FILE = CMakeFiles\LearnC.dir\Lesson1\bt5.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\LearnC.dir
   OBJECT_FILE_DIR = CMakeFiles\LearnC.dir\Lesson1
+
+build CMakeFiles/LearnC.dir/Lesson2/bt1.c.obj: C_COMPILER__LearnC_unscanned_Debug D$:/LearnC/Lesson2/bt1.c || cmake_object_order_depends_target_LearnC
+  DEP_FILE = CMakeFiles\LearnC.dir\Lesson2\bt1.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\LearnC.dir
+  OBJECT_FILE_DIR = CMakeFiles\LearnC.dir\Lesson2
+
+build CMakeFiles/LearnC.dir/Lesson3/bt1.c.obj: C_COMPILER__LearnC_unscanned_Debug D$:/LearnC/Lesson3/bt1.c || cmake_object_order_depends_target_LearnC
+  DEP_FILE = CMakeFiles\LearnC.dir\Lesson3\bt1.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\LearnC.dir
+  OBJECT_FILE_DIR = CMakeFiles\LearnC.dir\Lesson3
+
+build CMakeFiles/LearnC.dir/Lesson3/bt3.c.obj: C_COMPILER__LearnC_unscanned_Debug D$:/LearnC/Lesson3/bt3.c || cmake_object_order_depends_target_LearnC
+  DEP_FILE = CMakeFiles\LearnC.dir\Lesson3\bt3.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\LearnC.dir
+  OBJECT_FILE_DIR = CMakeFiles\LearnC.dir\Lesson3
+
+build CMakeFiles/LearnC.dir/Lesson3/bt4.c.obj: C_COMPILER__LearnC_unscanned_Debug D$:/LearnC/Lesson3/bt4.c || cmake_object_order_depends_target_LearnC
+  DEP_FILE = CMakeFiles\LearnC.dir\Lesson3\bt4.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\LearnC.dir
+  OBJECT_FILE_DIR = CMakeFiles\LearnC.dir\Lesson3
+
+build CMakeFiles/LearnC.dir/Lesson3/bt5.c.obj: C_COMPILER__LearnC_unscanned_Debug D$:/LearnC/Lesson3/bt5.c || cmake_object_order_depends_target_LearnC
+  DEP_FILE = CMakeFiles\LearnC.dir\Lesson3\bt5.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\LearnC.dir
+  OBJECT_FILE_DIR = CMakeFiles\LearnC.dir\Lesson3
+
+build CMakeFiles/LearnC.dir/Lesson3/bt6.c.obj: C_COMPILER__LearnC_unscanned_Debug D$:/LearnC/Lesson3/bt6.c || cmake_object_order_depends_target_LearnC
+  DEP_FILE = CMakeFiles\LearnC.dir\Lesson3\bt6.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\LearnC.dir
+  OBJECT_FILE_DIR = CMakeFiles\LearnC.dir\Lesson3
+
+build CMakeFiles/LearnC.dir/Lesson4/bt1.c.obj: C_COMPILER__LearnC_unscanned_Debug D$:/LearnC/Lesson4/bt1.c || cmake_object_order_depends_target_LearnC
+  DEP_FILE = CMakeFiles\LearnC.dir\Lesson4\bt1.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\LearnC.dir
+  OBJECT_FILE_DIR = CMakeFiles\LearnC.dir\Lesson4
+
+build CMakeFiles/LearnC.dir/Lesson4/bt2.c.obj: C_COMPILER__LearnC_unscanned_Debug D$:/LearnC/Lesson4/bt2.c || cmake_object_order_depends_target_LearnC
+  DEP_FILE = CMakeFiles\LearnC.dir\Lesson4\bt2.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\LearnC.dir
+  OBJECT_FILE_DIR = CMakeFiles\LearnC.dir\Lesson4
+
+build CMakeFiles/LearnC.dir/Lesson4/bt3.c.obj: C_COMPILER__LearnC_unscanned_Debug D$:/LearnC/Lesson4/bt3.c || cmake_object_order_depends_target_LearnC
+  DEP_FILE = CMakeFiles\LearnC.dir\Lesson4\bt3.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\LearnC.dir
+  OBJECT_FILE_DIR = CMakeFiles\LearnC.dir\Lesson4
+
+build CMakeFiles/LearnC.dir/bài_làm_trên_l?p/nháp_trên_l?p.c.obj: C_COMPILER__LearnC_unscanned_Debug D$:/LearnC/bài$ làm$ trên$ l?p/nháp$ trên$ l?p.c || cmake_object_order_depends_target_LearnC
+  DEP_FILE = CMakeFiles\LearnC.dir\bài_làm_trên_l?p\nháp_trên_l?p.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\LearnC.dir
+  OBJECT_FILE_DIR = CMakeFiles\LearnC.dir\bài_làm_trên_l?p
 
 
 # =============================================================================
@@ -87,7 +141,7 @@ build CMakeFiles/LearnC.dir/Lesson1/bt5.c.obj: C_COMPILER__LearnC_unscanned_Debu
 #############################################
 # Link the static library libLearnC.a
 
-build libLearnC.a: C_STATIC_LIBRARY_LINKER__LearnC_Debug CMakeFiles/LearnC.dir/library.c.obj CMakeFiles/LearnC.dir/Lesson1/bt1.c.obj CMakeFiles/LearnC.dir/Lesson1/bt2.c.obj CMakeFiles/LearnC.dir/Lesson1/bt3.c.obj CMakeFiles/LearnC.dir/Lesson1/bt5.c.obj
+build libLearnC.a: C_STATIC_LIBRARY_LINKER__LearnC_Debug CMakeFiles/LearnC.dir/library.c.obj CMakeFiles/LearnC.dir/Lesson1/bt1.c.obj CMakeFiles/LearnC.dir/Lesson1/bt2.c.obj CMakeFiles/LearnC.dir/Lesson1/bt5.c.obj CMakeFiles/LearnC.dir/Lesson2/bt1.c.obj CMakeFiles/LearnC.dir/Lesson3/bt1.c.obj CMakeFiles/LearnC.dir/Lesson3/bt3.c.obj CMakeFiles/LearnC.dir/Lesson3/bt4.c.obj CMakeFiles/LearnC.dir/Lesson3/bt5.c.obj CMakeFiles/LearnC.dir/Lesson3/bt6.c.obj CMakeFiles/LearnC.dir/Lesson4/bt1.c.obj CMakeFiles/LearnC.dir/Lesson4/bt2.c.obj CMakeFiles/LearnC.dir/Lesson4/bt3.c.obj CMakeFiles/LearnC.dir/bài_làm_trên_l?p/nháp_trên_l?p.c.obj
   LANGUAGE_COMPILE_FLAGS = -g
   OBJECT_DIR = CMakeFiles\LearnC.dir
   POST_BUILD = cd .
