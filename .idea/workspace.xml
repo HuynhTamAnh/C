@@ -21,7 +21,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c0d7695-95f0-498b-af56-fc40ad6b9736" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;CMakeLists.txt&#10;#&#9;Lesson2/bt1.c&#10;#&#9;bt1.exe&#10;#&#9;bt5.exe&#10;#&#9;bt6.exe&#10;#&#9;cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1121b88b7a6c0a8a5f36.json&#10;#&#9;cmake-build-debug/.cmake/api/v1/reply/index-2023-12-06T01-47-52-0321.json&#10;#&#9;cmake-build-debug/.cmake/api/v1/reply/target-LearnC-Debug-65c807b83881323c3e99.json&#10;#&#9;cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin&#10;#&#9;cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe&#10;#&#9;cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml&#10;#&#9;cmake-build-debug/CMakeFiles/clion-Debug-log.txt&#10;#&#9;cmake-build-debug/build.ninja">
-      <change afterPath="$PROJECT_DIR$/Lesson4/bt7.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/bt1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/bt2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/bt3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/bt4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/bt5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6/bt1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6/bt2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bài làm trên lớp/1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bài làm trên lớp/2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bài làm trên lớp/3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bài làm trên lớp/4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bài làm trên lớp/5.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt1.c" afterDir="false" />
@@ -29,11 +40,12 @@
       <change beforePath="$PROJECT_DIR$/Lesson3/bt4.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt4.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt5.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt5.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt6.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt6.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/bt6.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/bt6.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt6.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bt6.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-561cf2806347b5b1c7c6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-06T08-28-02-0781.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-LearnC-Debug-cc08021450dcf5f112fe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bt3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bt3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bt4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bt4.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài làm trên lớp/nháp trên lớp.c" beforeDir="false" afterPath="$PROJECT_DIR$/bài làm trên lớp/nháp trên lớp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-e0d52be2b337a49f8347.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-06T14-41-11-0235.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-LearnC-Debug-36c80c82123bc40ca589.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
@@ -105,62 +117,62 @@
       <recent name="D:\LearnC\Lesson1" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.bt6.c">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="C/C++ File.bt5.c">
     <configuration name="LearnC" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="LearnC" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="5.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="5.c" CONFIG_NAME="5.c">
+      <option name="sourceFile" value="bài làm trên lớp\5.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bt1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="bt1.c" CONFIG_NAME="bt1.c">
+      <option name="sourceFile" value="Lesson6\bt1.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bt3.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="bt3.c" CONFIG_NAME="bt3.c">
+      <option name="sourceFile" value="Lesson5\bt3.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="bt4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="bt4.c" CONFIG_NAME="bt4.c">
-      <option name="sourceFile" value="Lesson4\bt4.c" />
+      <option name="sourceFile" value="Lesson5\bt4.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="bt5.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="bt5.c" CONFIG_NAME="bt5.c">
-      <option name="sourceFile" value="Lesson4\bt5.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="bt6.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="bt6.c" CONFIG_NAME="bt6.c">
-      <option name="sourceFile" value="Lesson4\bt6.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="bt7.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="bt7.c" CONFIG_NAME="bt7.c">
-      <option name="sourceFile" value="Lesson4\bt7.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="nháp trên lớp.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="nháp trên lớp.c" CONFIG_NAME="nháp trên lớp.c">
-      <option name="sourceFile" value="bài làm trên lớp\nháp trên lớp.c" />
+      <option name="sourceFile" value="Lesson5\bt5.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.bt7.c" />
-      <item itemvalue="C/C++ File.bt6.c" />
       <item itemvalue="C/C++ File.bt5.c" />
       <item itemvalue="C/C++ File.bt4.c" />
-      <item itemvalue="C/C++ File.nháp trên lớp.c" />
+      <item itemvalue="C/C++ File.5.c" />
+      <item itemvalue="C/C++ File.bt3.c" />
+      <item itemvalue="C/C++ File.bt1.c" />
       <item itemvalue="CMake Application.LearnC" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.bt6.c" />
-        <item itemvalue="C/C++ File.bt7.c" />
         <item itemvalue="C/C++ File.bt5.c" />
         <item itemvalue="C/C++ File.bt4.c" />
-        <item itemvalue="C/C++ File.nháp trên lớp.c" />
+        <item itemvalue="C/C++ File.bt3.c" />
+        <item itemvalue="C/C++ File.5.c" />
+        <item itemvalue="C/C++ File.bt1.c" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +205,11 @@
       <workItem from="1701793785219" duration="547000" />
       <workItem from="1701825508198" duration="7092000" />
       <workItem from="1701844777768" duration="11435000" />
-      <workItem from="1701872291657" duration="5764000" />
+      <workItem from="1701872291657" duration="6540000" />
+      <workItem from="1701913095607" duration="17222000" />
+      <workItem from="1701971093019" duration="235000" />
+      <workItem from="1701998060075" duration="9502000" />
+      <workItem from="1702105606267" duration="2464000" />
     </task>
     <task id="LOCAL-00001" summary="feature/ss4">
       <option name="closed" value="true" />
@@ -269,19 +285,14 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/bài làm trên lớp/nháp trên lớp.c</url>
-          <line>1</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/bài làm trên lớp/nháp trên lớp.c</url>
-          <line>9</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/Lesson4/bt5.c</url>
           <line>1</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/bài làm trên lớp/nháp trên lớp.c</url>
+          <line>1</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
