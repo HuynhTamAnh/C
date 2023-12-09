@@ -21,18 +21,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c0d7695-95f0-498b-af56-fc40ad6b9736" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;CMakeLists.txt&#10;#&#9;Lesson2/bt1.c&#10;#&#9;bt1.exe&#10;#&#9;bt5.exe&#10;#&#9;bt6.exe&#10;#&#9;cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1121b88b7a6c0a8a5f36.json&#10;#&#9;cmake-build-debug/.cmake/api/v1/reply/index-2023-12-06T01-47-52-0321.json&#10;#&#9;cmake-build-debug/.cmake/api/v1/reply/target-LearnC-Debug-65c807b83881323c3e99.json&#10;#&#9;cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin&#10;#&#9;cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe&#10;#&#9;cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml&#10;#&#9;cmake-build-debug/CMakeFiles/clion-Debug-log.txt&#10;#&#9;cmake-build-debug/build.ninja">
-      <change afterPath="$PROJECT_DIR$/Lesson5/bt1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/bt2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/bt3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/bt4.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/bt5.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/bt1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/bt2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bài làm trên lớp/1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bài làm trên lớp/2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bài làm trên lớp/3.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bài làm trên lớp/4.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bài làm trên lớp/5.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt1.c" afterDir="false" />
@@ -40,14 +28,7 @@
       <change beforePath="$PROJECT_DIR$/Lesson3/bt4.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt4.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt5.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt5.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt6.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt6.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bt3.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bt4.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bài làm trên lớp/nháp trên lớp.c" beforeDir="false" afterPath="$PROJECT_DIR$/bài làm trên lớp/nháp trên lớp.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-e0d52be2b337a49f8347.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-06T14-41-11-0235.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-LearnC-Debug-36c80c82123bc40ca589.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6/bt2.c" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,12 +99,12 @@
     </key>
   </component>
   <component name="RunManager" selected="C/C++ File.bt5.c">
-    <configuration name="LearnC" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="LearnC" CONFIG_NAME="Debug">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="LearnC" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="LearnC" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -209,7 +190,8 @@
       <workItem from="1701913095607" duration="17222000" />
       <workItem from="1701971093019" duration="235000" />
       <workItem from="1701998060075" duration="9502000" />
-      <workItem from="1702105606267" duration="2464000" />
+      <workItem from="1702105606267" duration="3248000" />
+      <workItem from="1702110703300" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="feature/ss4">
       <option name="closed" value="true" />
