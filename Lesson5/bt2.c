@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>xị
 int main()
 {
     int doanhThuBanHang;
