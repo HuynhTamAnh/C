@@ -84,7 +84,13 @@
 				31,
 				32,
 				33,
-				34
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40
 			]
 		}
 	],
@@ -136,7 +142,13 @@
 				31,
 				32,
 				33,
-				34
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40
 			]
 		}
 	],
@@ -350,6 +362,42 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Lesson8/bt1.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "b\u00e0i l\u00e0m tr\u00ean l\u1edbp/mangdachieu.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Lesson7/bt1.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Lesson7/bt2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "b\u00e0i l\u00e0m tr\u00ean l\u1edbp/mang1chieu.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Lesson7/bt3.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Lesson8/bt2.c",
 			"sourceGroupIndex" : 0
 		}
 	],
