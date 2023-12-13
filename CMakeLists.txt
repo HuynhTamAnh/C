@@ -44,8 +44,8 @@ add_library(LearnC library.c
         "bài làm trên lớp/mang1chieu.c"
         Lesson7/bt3.c
         Lesson8/bt2.c
-        Lesson8/bt3.c
         "bài làm trên lớp/saochepmang.c"
         Lesson8/bt5.c
+        "bài làm trên lớp/contro.c"
 )
 

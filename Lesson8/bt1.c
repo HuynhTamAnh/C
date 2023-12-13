@@ -2,7 +2,9 @@
 
 int main()
 {
-    int n; scanf("%d",&n);
+    int n;
+    printf("nhap so phan tu: ");
+    scanf("%d",&n);
     int a[n];
     for(int i=0;i<n;i++){
         printf("nhap so phan tu %d: ", i+1);
