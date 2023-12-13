@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+//int main()
 //{
 //    int a=200;
 //    int *ptr;
@@ -13,6 +13,21 @@ int main()
 //}
 
 
-{
 
+    void tang1(int a){
+    a+=100;
+    }
+
+    void tang2(int *a){
+    *a+=100;
+    }
+
+int main()
+{
+    int a=300;
+    tang1(a);
+    printf("gia tri cua a sau tang1: %d\n",a);
+    tang2(&a);
+    printf("gia tri cua a sau tang2: %d",a);
+    return 0;
 }
