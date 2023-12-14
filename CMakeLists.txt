@@ -22,14 +22,9 @@ add_library(LearnC library.c
         Lesson4/bt6.c
         Lesson4/bt7.c
         Lesson5/bt1.c
-        "bài làm trên lớp/1.c"
         Lesson5/bt2.c
-        "bài làm trên lớp/2.c"
-        "bài làm trên lớp/3.c"
-        "bài làm trên lớp/4.c"
         Lesson6/bt1.c
         Lesson5/bt3.c
-        "bài làm trên lớp/5.c"
         Lesson5/bt4.c
         Lesson5/bt5.c
         "bài làm trên lớp/hàm.c"
@@ -50,5 +45,10 @@ add_library(LearnC library.c
         "bài làm trên lớp/ham.c"
         Lesson9/bt1.c
         Lesson9/bt2.c
+        "bài làm trên lớp/gets.c"
+        "bài làm trên lớp/qsort.c"
+        "bài làm trên lớp/dequy.c"
+        Lesson12/bt1.c
+        Lesson12/bt2.c
 )
 
