@@ -51,5 +51,10 @@ add_library(LearnC library.c
         Lesson12/bt1.c
         Lesson12/bt2.c
         "bài làm trên lớp/thamchieu.c"
+        "bài làm trên lớp/nhap1.c"
+        Lesson10/bt1.c
+        "bài làm trên lớp/sapxeptangdan.c"
+        "bài làm trên lớp/locate.c"
+        Lesson10/bt2.c
 )
 

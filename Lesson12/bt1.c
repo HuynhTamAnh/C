@@ -1,46 +1,27 @@
 #include<stdio.h>
-
-int main(){
-    int a,b,c,temp;
-    printf("nhap a:");
-    scanf("%d",&a);
-    printf("nhap b:");
-    scanf("%d",&b);
-    printf("nhap c:");
-    scanf("%d",&c);
-
-
-
-    if(a<b) {
-       temp=a;
-       a=b;
-       b=temp;
-    printf("cap thu 1:\n %d\n %d\n",a-b, a+b);
-    }else if(b<a){
-        printf("cap thu 1:\n %d\n %d\n",a-b, a+b);
-    }
-
-
-    if(a<c) {
-        temp=a;
-        a=c;
-        c=temp;
-        printf("cap thu 2:\n %d\n %d\n",a-c, a+c);
-    }else if(c<a){
-        printf("cap thu 2:\n %d\n %d\n",a-c, a+c);
-    }
-
-
-//    if(b<c) {
-//        temp=b;
-//        b=c;
-//        c=temp;
-//        printf("cap thu 2:\n %d\n %d\n",b-c, b+c);
-//    }else if(c<b){
-//        printf("cap thu 2:\n %d\n %d\n",b-c, b+c);
-//    }
-
-
-    return 0;
+#include<math.h>
+int sum,minus;
+int tong(int x, int y)
+{
+    sum = x +y;
+    printf("%d+%d=%d\n",x,y,sum);
+    return sum;
+}
+int hieu(int x, int y)
+{
+    minus = abs(x- y);
+    printf("%d-%d=%d\n",x,y,minus);
+    return minus;
+}
+int main() {
+    int a,b,c;
+    printf("Nhap a, b, c lan luot:");
+    scanf("%d %d %d", &a,&b,&c);
+    tong(a,b);
+    hieu(a,b);
+    tong(a,c);
+    hieu(a,c);
+    tong(b,c);
+    hieu(b,c);
 
 }
