@@ -23,5 +23,4 @@ int main() {
     chia(a,c);
     nhan(b,c);
     chia(b,c);
-
 }
