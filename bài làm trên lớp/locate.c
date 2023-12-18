@@ -9,7 +9,7 @@ int main()
     int pos=-1;
 
     for(int i=0;i<m;i++){
-        printf("nhap phan tu thu %d",i+1);
+        printf("nhap phan tu thu %d: ",i+1);
         scanf("%d",&a[i]);
     }
 

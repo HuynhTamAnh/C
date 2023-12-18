@@ -27,7 +27,6 @@ add_library(LearnC library.c
         Lesson5/bt3.c
         Lesson5/bt4.c
         Lesson5/bt5.c
-        "bài làm trên lớp/hàm.c"
         "bài làm trên lớp/tamgiacvuong.c"
         "bài làm trên lớp/hinhbinhhanh.c"
         "bài làm trên lớp/hinhthoi.c"
@@ -59,5 +58,8 @@ add_library(LearnC library.c
         "bài làm trên lớp/sochinhphuong.c"
         "bài làm trên lớp/soNguyenTo.c"
         Lesson10/bt3.c
+        Lesson14/bt1.c
+        Lesson14/bt2.c
+        PTIT_KS2023A_[HuynhTamAnh]/hackathon.c
 )
 
