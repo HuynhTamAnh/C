@@ -21,30 +21,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c0d7695-95f0-498b-af56-fc40ad6b9736" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;CMakeLists.txt&#10;#&#9;Lesson2/bt1.c&#10;#&#9;bt1.exe&#10;#&#9;bt5.exe&#10;#&#9;bt6.exe&#10;#&#9;cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1121b88b7a6c0a8a5f36.json&#10;#&#9;cmake-build-debug/.cmake/api/v1/reply/index-2023-12-06T01-47-52-0321.json&#10;#&#9;cmake-build-debug/.cmake/api/v1/reply/target-LearnC-Debug-65c807b83881323c3e99.json&#10;#&#9;cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin&#10;#&#9;cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe&#10;#&#9;cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml&#10;#&#9;cmake-build-debug/CMakeFiles/clion-Debug-log.txt&#10;#&#9;cmake-build-debug/build.ninja">
-      <change afterPath="$PROJECT_DIR$/Lesson14/bt1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson14/bt2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PTIT_KS2023A_[HuynhTamAnh]/hackathon.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson10/bt3.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson10/bt3.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt1.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt3.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt3.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt4.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt4.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt5.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt5.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt6.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt6.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bt1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bài làm trên lớp/gets.c" beforeDir="false" afterPath="$PROJECT_DIR$/bài làm trên lớp/gets.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bài làm trên lớp/hàm.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bài làm trên lớp/locate.c" beforeDir="false" afterPath="$PROJECT_DIR$/bài làm trên lớp/locate.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bài làm trên lớp/sapxeptangdan.c" beforeDir="false" afterPath="$PROJECT_DIR$/bài làm trên lớp/sapxeptangdan.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-62b491ecfff772ff0a24.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-17T04-23-36-0841.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-LearnC-Debug-ed0587d89e35873e53f4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gets.exe" beforeDir="false" afterPath="$PROJECT_DIR$/gets.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/locate.exe" beforeDir="false" afterPath="$PROJECT_DIR$/locate.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sapxeptangdan.exe" beforeDir="false" afterPath="$PROJECT_DIR$/sapxeptangdan.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PTIT_KS2023A_[HuynhTamAnh]/hackathon.c" beforeDir="false" afterPath="$PROJECT_DIR$/PTIT_KS2023A_[HuynhTamAnh]/hackathon.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackathon.exe" beforeDir="false" afterPath="$PROJECT_DIR$/hackathon.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +99,7 @@
       <recent name="D:\LearnC\Lesson1" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.sapxeptangdan.c">
+  <component name="RunManager" selected="C/C++ File.hackathon.c">
     <configuration name="LearnC" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="LearnC" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -161,8 +145,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.sapxeptangdan.c" />
         <item itemvalue="C/C++ File.hackathon.c" />
+        <item itemvalue="C/C++ File.sapxeptangdan.c" />
         <item itemvalue="C/C++ File.bt1.c (1)" />
         <item itemvalue="C/C++ File.locate.c" />
         <item itemvalue="C/C++ File.bt1.c" />
@@ -233,6 +217,9 @@
       <workItem from="1702868423271" duration="11575000" />
       <workItem from="1702910331591" duration="6263000" />
       <workItem from="1702917776611" duration="146000" />
+      <workItem from="1702918003427" duration="659000" />
+      <workItem from="1702948836591" duration="2081000" />
+      <workItem from="1702950950054" duration="8170000" />
     </task>
     <task id="LOCAL-00001" summary="feature/ss4">
       <option name="closed" value="true" />
