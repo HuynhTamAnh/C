@@ -133,26 +133,56 @@ void swap(int* n1, int* n2)
 
 //in ra mảng đảo ngược
 
+//#include<stdio.h>
+//int main()
+//{
+//    int m;
+//    printf("nhap m: ");
+//    scanf("%d",&m);
+//    int a[m];
+//    int *b=a[m];
+//
+//    for(int i=0;i<m;i++){
+//        printf("nhap phan tu thu %d: ",i);
+//        scanf("%d",&a[i]);
+//    }
+//
+//    printf("Hien thi cac phan tu mang theo chieu dao nguoc:\n");
+//    for(int i = m - 1; i >= 0; i--) {
+//        printf("%d\n", a[i]);
+//        b--;
+//    }
+//
+//return 0;
+//}
+
+
+//mang la hang con tro
 #include<stdio.h>
-int main()
-{
-    int m;
-    printf("nhap m: ");
-    scanf("%d",&m);
-    int a[m];
-    int *b=a[m];
+#include<stdlib.h>
+int main() {
+//{
+   int a[5];
+//    int *b=a;
+//    for(int i=0;i<5;i++)
+//    printf("%d",b[i]);
+//}
 
-    for(int i=0;i<m;i++){
-        printf("nhap phan tu thu %d: ",i);
-        scanf("%d",&a[i]);
+
+
+
+//a+1 là con trỏ dùng để trỏ đến vị trí thứ i trong mảng
+
+//&a[i] =(a+i);
+//a[i]=*(a+i);
+
+//for (int i=0;i<5;i++);
+//scanf("%d",&a);
+    for (int i = 0; i < 5; i++) {
+        scanf("%d", a + i);
     }
-
-    printf("Hien thi cac phan tu mang theo chieu dao nguoc:\n");
-    for(int i = m - 1; i >= 0; i--) {
-        printf("%d\n", a[i]);
-        b--;
+    for(int i=0;i<5;i++){
+        printf("%d",a[i]);
     }
-
-
-return 0;
+    return 0;
 }

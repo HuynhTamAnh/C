@@ -61,5 +61,9 @@ add_library(LearnC library.c
         Lesson14/bt1.c
         Lesson14/bt2.c
         PTIT_KS2023A_[HuynhTamAnh]/hackathon.c
+        "bài làm trên lớp/contro_capphatdong.c"
+        Lesson11/bt1.c
+        Lesson11/bt2.c
+        Lesson11/bt3.c
 )
 
