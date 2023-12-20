@@ -29,13 +29,21 @@
 #include<ctype.h>
 #include<string.h>
 #include<stdlib.h>
-int main()
+int main(void)
+//{
+//    char a[100];
+//    //scanf chỉ lấy phần tử truớc dấu space
+//    gets(a);
+//    //scanf("%10s",a); lấy 10 kí tự trong chuỗi vừa nhập
+//    printf("%s",a);
+//    return 0;
+//}
+
 {
-    char a[100];
-    //scanf chỉ lấy phần tử truớc dấu space
-    gets(a);
-    //scanf("%10s",a); lấy 10 kí tự trong chuỗi vừa nhập
-    printf("%s",a);
-    return 0;
+    char str1[]="Thay Hung";
+    char str2[]=" cute";
+    strcat(str1,str2);
+    printf("%s\n",str1);
 }
+
 

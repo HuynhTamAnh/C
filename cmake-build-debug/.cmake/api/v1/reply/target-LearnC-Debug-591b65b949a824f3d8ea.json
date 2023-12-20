@@ -111,7 +111,12 @@
 				58,
 				59,
 				60,
-				61
+				61,
+				62,
+				63,
+				64,
+				65,
+				66
 			]
 		}
 	],
@@ -190,7 +195,12 @@
 				58,
 				59,
 				60,
-				61
+				61,
+				62,
+				63,
+				64,
+				65,
+				66
 			]
 		}
 	],
@@ -445,7 +455,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "b\u00e0i l\u00e0m tr\u00ean l\u1edbp/gets.c",
+			"path" : "b\u00e0i l\u00e0m tr\u00ean l\u1edbp/gets_and_puts.c",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -566,6 +576,36 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Lesson11/bt3.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "b\u00e0i l\u00e0m tr\u00ean l\u1edbp/chuoi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Lesson13/bt1.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Lesson13/bt2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Lesson13/bt3.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Lesson14/bt3.c",
 			"sourceGroupIndex" : 0
 		}
 	],
