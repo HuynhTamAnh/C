@@ -21,4 +21,5 @@ int main(){
         printf("do dai chuoi dai nhat la chuoi 1 voi %d ki tu",strlen(a));
     }else printf("do dai chuoi dai nhat la chuoi 2 voi %d ki tu",strlen(b));
     return 0;
+
 }

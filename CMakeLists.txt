@@ -70,5 +70,13 @@ add_library(LearnC library.c
         Lesson13/bt2.c
         Lesson13/bt3.c
         Lesson14/bt3.c
+        Lesson14/bt5.c
+        "bài làm trên lớp/contromang.c"
+        "bài làm trên lớp/mang2chieudangcontromang1chieu.c"
+        "bài làm trên lớp/timkiemtt-timkiemnhiphan.c"
+        "bài làm trên lớp/tranngu.c"
+        "bài làm trên lớp/struct.c"
+        Lesson15/bt1.c
+        Lesson15/bt2.c
 )
 

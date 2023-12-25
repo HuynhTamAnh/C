@@ -38,15 +38,16 @@ void outp()//case2
     printf("\n");
 }
 
-void chia23()//case3
+int chia23()//case3
  {
     int sum=0;
         for(int i=0;i<n;i++){
-            if(a[i]%2==0&&a[i]%3==0){
+            if(i%2==0&&i%3==0){
                 sum+=a[i];
             }
         }
-
+        printf("tong: %d\n",sum);
+return sum;
 }
 
 void maxMin()//case4
