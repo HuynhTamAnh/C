@@ -42,7 +42,8 @@ int main() {
         printf("nhap chi tiet thanh pho thu %d: ", i);
         //scanf("%d",&ct[i]);
         printf("\nnhap ten thanh pho: ");
-        scanf("%s", &ct[i].name);
+        getchar();
+        gets(ct[i].name);
         printf("nhap tong so dan: ");
         scanf("%d", &ct[i].tongDan);
         printf("nhap ti le doc viet: ");
