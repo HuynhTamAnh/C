@@ -80,5 +80,6 @@ add_library(LearnC library.c
         Lesson15/bt2.c
         "bài làm trên lớp/struct1.c"
         Lesson15/bt4.c
+        Lesson23/bt1.c
 )
 

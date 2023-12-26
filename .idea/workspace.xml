@@ -21,14 +21,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c0d7695-95f0-498b-af56-fc40ad6b9736" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;CMakeLists.txt&#10;#&#9;Lesson2/bt1.c&#10;#&#9;bt1.exe&#10;#&#9;bt5.exe&#10;#&#9;bt6.exe&#10;#&#9;cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1121b88b7a6c0a8a5f36.json&#10;#&#9;cmake-build-debug/.cmake/api/v1/reply/index-2023-12-06T01-47-52-0321.json&#10;#&#9;cmake-build-debug/.cmake/api/v1/reply/target-LearnC-Debug-65c807b83881323c3e99.json&#10;#&#9;cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin&#10;#&#9;cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe&#10;#&#9;cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml&#10;#&#9;cmake-build-debug/CMakeFiles/clion-Debug-log.txt&#10;#&#9;cmake-build-debug/build.ninja">
+      <change afterPath="$PROJECT_DIR$/Lesson23/bt1.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson15/bt4.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson15/bt4.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt1.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt3.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt3.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt4.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt4.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt5.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt5.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt6.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt6.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bt4.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +238,7 @@
       <workItem from="1703410933232" duration="4796000" />
       <workItem from="1703468447638" duration="735000" />
       <workItem from="1703469497071" duration="3308000" />
-      <workItem from="1703557685457" duration="9722000" />
+      <workItem from="1703557685457" duration="10119000" />
     </task>
     <task id="LOCAL-00001" summary="feature/ss4">
       <option name="closed" value="true" />
