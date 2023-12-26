@@ -124,7 +124,9 @@
 				71,
 				72,
 				73,
-				75
+				74,
+				75,
+				76
 			]
 		}
 	],
@@ -217,7 +219,8 @@
 				72,
 				73,
 				74,
-				75
+				75,
+				76
 			]
 		}
 	],
@@ -664,18 +667,25 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "b\u00e0i l\u00e0m tr\u00ean l\u1edbp/btcontromang2chieu.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "Lesson15/bt1.cpp",
+			"path" : "Lesson15/bt1.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Lesson15/bt2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "b\u00e0i l\u00e0m tr\u00ean l\u1edbp/struct1.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Lesson15/bt4.c",
 			"sourceGroupIndex" : 0
 		}
 	],
