@@ -25,15 +25,21 @@ void menu() {
 
 void outp(todo td[], int size) //case 1
 {
-    printf("************************TODO LIST************************\n");
-    printf("ID\tStart Date\tEnd Date\tContent\t\tStatus\n");
-    for (int i = 0; i < size; ++i) {
-        printf("%d\t%s\t%s\t%s\t\t%s\n", td[i].id, td[i].startDate,
-               td[i].endDate, td[i].content,
-               td[i].status ? "Done" : "Not Done");
-    }
+//    printf("************************TODO LIST************************\n");
+//    printf("ID\tStart Date\tEnd Date\tContent\t\tStatus\n");
+//    for (int i = 0; i < size; ++i) {
+//        printf("%d\t%s\t%s\t%s\t\t%s\n", td[i].id, td[i].startDate,
+//               td[i].endDate, td[i].content,
+//               td[i].status ? "Done" : "Not Done");
+//    }
+        for (int i = 0; i < size; i++) {
+            printf("ID: %d, Start date: %s, End date: %s, Content: %s, Status: %s\n",td[i].id, td[i].startDate, td[i].endDate, td[i].content,td[i].status ? "Done" : "Haven't done");
+        }
     printf("*********************************************************\n");
-}
+    }
+
+
+
 
 void add(todo td[], int *count) //case 2
 {
