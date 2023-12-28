@@ -25,13 +25,7 @@ void menu() {
 
 void outp(todo td[], int size) //case 1
 {
-//    printf("************************TODO LIST************************\n");
-//    printf("ID\tStart Date\tEnd Date\tContent\t\tStatus\n");
-//    for (int i = 0; i < size; ++i) {
-//        printf("%d\t%s\t%s\t%s\t\t%s\n", td[i].id, td[i].startDate,
-//               td[i].endDate, td[i].content,
-//               td[i].status ? "Done" : "Not Done");
-//    }
+
         for (int i = 0; i < size; i++) {
             printf("ID: %d, Start date: %s, End date: %s, Content: %s, Status: %s\n",td[i].id, td[i].startDate, td[i].endDate, td[i].content,td[i].status ? "Done" : "Haven't done");
         }
@@ -43,10 +37,13 @@ void outp(todo td[], int size) //case 1
 
 void add(todo td[], int *count) //case 2
 {
+    int id;
     char tieptuc;
     do {
         if (*count < max) {
             printf("nhap thong tin moi muon them vao\n");
+            printf("id: ");
+            scanf("%d", &td[*count].id);
             printf("start date: ");
             fflush(stdin);
             gets(td[*count].startDate);
@@ -60,7 +57,7 @@ void add(todo td[], int *count) //case 2
             printf("status (1 for Done, 0 for Not Done): ");
             scanf("%d", &td[*count].status);
 
-            td[*count].id = *count + 1;
+
             (*count)++;
             printf("successfully added\n");
 
@@ -186,6 +183,7 @@ void timByStatus(todo td[], int count, bool status) //case 7
 }
 
 int main() {
+
     todo td[100] = {{1, "01-05-2022", "01-05-2023", "Task 1", true}, {2, "30-12-2022", "30-12-2023", "Task 2", false}};
 
     int choice;
