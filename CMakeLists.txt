@@ -81,5 +81,7 @@ add_library(LearnC library.c
         "bài làm trên lớp/struct1.c"
         Lesson15/bt4.c
         Lesson23/bt1.c
+        "học thêm với mn/struct.c"
+        PTIT_KS2023A_[HuynhTamAnh]/hackathon2.c
 )
 

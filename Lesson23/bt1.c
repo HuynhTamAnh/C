@@ -20,6 +20,8 @@ void sapXepDv(city a[],int m) {
     printf("\nthanh pho co ti le doc viet cao nhat la: %s\n", a[d].name);
 }
 
+
+
 void sapXepTn(city a[],int m) {
     int c = 0;
     for (int i = 0; i < m; i++) {
@@ -56,3 +58,4 @@ int main() {
     sapXepTn(ct, n);
     return 0;
 }
+
