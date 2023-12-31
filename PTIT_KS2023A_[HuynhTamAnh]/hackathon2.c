@@ -105,7 +105,7 @@ void update(todo td[], int count) //case 3
 void delete(todo td[], int *count) //case 4
 {
     char tim_content[100];
-    printf("Nhập nội dung của todo bạn muốn xóa: ");
+    printf("Nhap noi dung cua todo ban muon xoa: ");
     scanf(" %[^\n]s", tim_content);
 
     for (int i = 0; i < *count; ++i) {
@@ -114,12 +114,12 @@ void delete(todo td[], int *count) //case 4
                 td[j] = td[j + 1];
             }
             (*count)--;
-            printf("Todo đã được xóa thành công!\n");
+            printf("Todo da duoc xoa thanh cong!\n");
             return;
         }
     }
 
-    printf("Không tìm thấy todo có nội dung \"%s\"\n", tim_content);
+    printf("Khong tim thay todo co noi dung \"%s\"\n", tim_content);
 }
 
 void selectionSort(todo td[], int count) //case 5
@@ -136,13 +136,13 @@ void selectionSort(todo td[], int count) //case 5
         td[i] = td[min];
         td[min] = temp;
     }
-    printf("Danh sách Todo đã được sắp xếp theo content!\n");
+    printf("Danh sach Todo da duoc sap xep theo content!\n");
 }
 
 void binarySearch(todo td[], int count) //case 6
 {
     char tim_content[100];
-    printf("Nhập nội dung của todo bạn muốn tìm kiếm: ");
+    printf("Nhap noi dung cua Todo ban muon tim kiem: ");
     scanf(" %[^\n]s", tim_content);
 
     int left = 0, right = count - 1;
@@ -151,7 +151,7 @@ void binarySearch(todo td[], int count) //case 6
         int compareResult = strcmp(td[mid].content, tim_content);
 
         if (compareResult == 0) {
-            printf("Thông tin của Todo có nội dung \"%s\":\n", tim_content);
+            printf("Thong tin cua Todo co noi dung \"%s\":\n", tim_content);
             printf("ID: %d\n", td[mid].id);
             printf("Start Date: %s\n", td[mid].startDate);
             printf("End Date: %s\n", td[mid].endDate);
@@ -165,7 +165,7 @@ void binarySearch(todo td[], int count) //case 6
         }
     }
 
-    printf("Không tìm thấy todo có nội dung \"%s\"\n", tim_content);
+    printf("Khong tim thay Todo co noi dung \"%s\"\n", tim_content);
 }
 
 void timByStatus(todo td[], int count, bool status) //case 7
