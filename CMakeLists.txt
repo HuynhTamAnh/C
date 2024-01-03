@@ -87,5 +87,6 @@ add_library(LearnC library.c
         "bài làm trên lớp/chenphantu.c"
         "bài làm trên lớp/xoaPhanTu.c"
         "học thêm với mn/tranvotri.c"
+        "doc file/bt.c"
 )
 
