@@ -7,7 +7,7 @@
 #include <ctype.h>
 
 
-    void normalizeName(char *name) {
+    void lucDau(char *name) {
         int i;
         int len = strlen(name);
 
@@ -22,7 +22,7 @@
     int main() {
         FILE *inputFile, *outputFile;
         char line[100];
-        int numberOfStudents;
+        int soHs;
 
         inputFile = fopen("sinhvien.txt", "r");
         if (inputFile == NULL) {
@@ -31,7 +31,7 @@
         }
 
 
-        fscanf(inputFile, "%d", &numberOfStudents);
+        fscanf(inputFile, "%d", &soHs);
         fgetc(inputFile); // Đọc và loại bỏ ký tự xuống dòng
 
         outputFile = fopen("sinhvien_out.txt", "w");
@@ -41,11 +41,11 @@
             return 1;
         }
 
-        for (int i = 0; i < numberOfStudents; i++) {
+        for (int i = 0; i < soHs; i++) {
             if (fgets(line, sizeof(line), inputFile) != NULL) {
 
                 char *token = strtok(line, "\n");
-                normalizeName(token);
+                lucDau(token);
 
 
                 printf("%s\n", token);
