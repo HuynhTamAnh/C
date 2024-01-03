@@ -32,12 +32,8 @@ void outp(todo td[], int size) //case 1
     printf("*********************************************************\n");
     }
 
-
-
-
 void add(todo td[], int *count) //case 2
 {
-    int id;
     char tieptuc;
     do {
         if (*count < max) {

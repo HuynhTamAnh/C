@@ -21,9 +21,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c0d7695-95f0-498b-af56-fc40ad6b9736" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;CMakeLists.txt&#10;#&#9;Lesson2/bt1.c&#10;#&#9;bt1.exe&#10;#&#9;bt5.exe&#10;#&#9;bt6.exe&#10;#&#9;cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-1121b88b7a6c0a8a5f36.json&#10;#&#9;cmake-build-debug/.cmake/api/v1/reply/index-2023-12-06T01-47-52-0321.json&#10;#&#9;cmake-build-debug/.cmake/api/v1/reply/target-LearnC-Debug-65c807b83881323c3e99.json&#10;#&#9;cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin&#10;#&#9;cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe&#10;#&#9;cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml&#10;#&#9;cmake-build-debug/CMakeFiles/clion-Debug-log.txt&#10;#&#9;cmake-build-debug/build.ninja">
-      <change afterPath="$PROJECT_DIR$/bài làm trên lớp/chenphantu.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bài làm trên lớp/file.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bài làm trên lớp/xoaPhanTu.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bài làm trên lớp/sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/học thêm với mn/tranvotri.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sinhvien.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt1.c" afterDir="false" />
@@ -31,10 +33,17 @@
       <change beforePath="$PROJECT_DIR$/Lesson3/bt4.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt4.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt5.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt5.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/bt6.c" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/bt6.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-4452d7a1da9cf1a5fd4d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-28T04-08-49-0864.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-LearnC-Debug-ede45bfca0494f32667e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PTIT_KS2023A_[HuynhTamAnh]/hackathon2.c" beforeDir="false" afterPath="$PROJECT_DIR$/PTIT_KS2023A_[HuynhTamAnh]/hackathon2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bài làm trên lớp/file.c" beforeDir="false" afterPath="$PROJECT_DIR$/bài làm trên lớp/file.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-6726d4c51c1db7e95615.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-30T09-53-56-0604.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-LearnC-Debug-334f724b5e4c7f4e5b7b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file.exe" beforeDir="false" afterPath="$PROJECT_DIR$/file.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackathon2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/hackathon2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/học thêm với mn/struct.c" beforeDir="false" afterPath="$PROJECT_DIR$/học thêm với mn/struct.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/struct.exe" beforeDir="false" afterPath="$PROJECT_DIR$/struct.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,32 +115,32 @@
       <recent name="D:\LearnC\Lesson1" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.xoaPhanTu.c">
+  <component name="RunManager" selected="C/C++ File.file.c">
     <configuration name="LearnC" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="LearnC" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chenphantu.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="chenphantu.c" CONFIG_NAME="chenphantu.c">
-      <option name="sourceFile" value="bài làm trên lớp\chenphantu.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="fille.c (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="fille.c">
+    <configuration name="file.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="file.c" CONFIG_NAME="file.c">
       <option name="sourceFile" value="bài làm trên lớp\file.c" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="fille.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="fille.c" CONFIG_NAME="fille.c">
-      <option name="sourceFile" value="bài làm trên lớp\fille.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="hackathon2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="hackathon2.c" CONFIG_NAME="hackathon2.c">
       <option name="sourceFile" value="PTIT_KS2023A_[HuynhTamAnh]\hackathon2.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="struct.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="struct.c" CONFIG_NAME="struct.c">
+      <option name="sourceFile" value="học thêm với mn\struct.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tranvotri.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearnC" TARGET_NAME="tranvotri.c" CONFIG_NAME="tranvotri.c">
+      <option name="sourceFile" value="học thêm với mn\tranvotri.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -143,20 +152,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="C/C++ File.file.c" />
+      <item itemvalue="C/C++ File.struct.c" />
+      <item itemvalue="C/C++ File.tranvotri.c" />
       <item itemvalue="C/C++ File.xoaPhanTu.c" />
-      <item itemvalue="C/C++ File.chenphantu.c" />
-      <item itemvalue="C/C++ File.fille.c" />
-      <item itemvalue="C/C++ File.fille.c (1)" />
       <item itemvalue="C/C++ File.hackathon2.c" />
       <item itemvalue="CMake Application.LearnC" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.xoaPhanTu.c" />
-        <item itemvalue="C/C++ File.chenphantu.c" />
-        <item itemvalue="C/C++ File.fille.c (1)" />
-        <item itemvalue="C/C++ File.fille.c" />
+        <item itemvalue="C/C++ File.file.c" />
+        <item itemvalue="C/C++ File.struct.c" />
         <item itemvalue="C/C++ File.hackathon2.c" />
+        <item itemvalue="C/C++ File.tranvotri.c" />
+        <item itemvalue="C/C++ File.xoaPhanTu.c" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +259,13 @@
       <workItem from="1703834711336" duration="1911000" />
       <workItem from="1703922260983" duration="5833000" />
       <workItem from="1703949379674" duration="673000" />
-      <workItem from="1704000745928" duration="2379000" />
+      <workItem from="1704000745928" duration="3705000" />
+      <workItem from="1704092584840" duration="6776000" />
+      <workItem from="1704160061033" duration="9045000" />
+      <workItem from="1704199156022" duration="36000" />
+      <workItem from="1704200269645" duration="36000" />
+      <workItem from="1704208030047" duration="334000" />
+      <workItem from="1704245353640" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="feature/ss4">
       <option name="closed" value="true" />
@@ -358,6 +373,11 @@
           <url>file://$PROJECT_DIR$/bài làm trên lớp/dequy.c</url>
           <line>58</line>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/bài làm trên lớp/file.c</url>
+          <line>92</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
