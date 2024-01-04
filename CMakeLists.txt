@@ -89,5 +89,6 @@ add_library(LearnC library.c
         "học thêm với mn/tranvotri.c"
         "doc file/bt.c"
         "doc file/bt2.c"
+        Lesson15/bt3.c
 )
 

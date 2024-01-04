@@ -135,7 +135,8 @@
 				82,
 				83,
 				84,
-				85
+				85,
+				86
 			]
 		}
 	],
@@ -238,7 +239,8 @@
 				82,
 				83,
 				84,
-				85
+				85,
+				86
 			]
 		}
 	],
@@ -758,6 +760,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "doc file/bt2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Lesson15/bt3.c",
 			"sourceGroupIndex" : 0
 		}
 	],
